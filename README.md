@@ -37,12 +37,16 @@ By Safwan Ikbal
 
 ---
 
-## 📐 Files
+## 📐 Key Files
 
 | File | Description |
 |------|-------------|
-| `FullEngineAssemby.SLDASM` | Top-level SolidWorks assembly containing all parts and subassemblies |
-| `FullEngineAssemby_Drawing.SLDDRW` | 2D engineering drawing with views and dimensions |
+| `FullEngineAssemby.SLDASM` | Final SolidWorks assembly containing all parts and subassemblies |
+| `FullEngineAssemby_Drawing.SLDDRW` | 2D engineering drawing with isometric view and components |
+| `SinglePistonAssembly.SLDDRW` | Key subassembly, used in the main 'FullEngineAssembly.SLDASM'. Involves a single piston model |
+| `DoublePistonAssembly.SLDDRW` | Key subassembly, involving a double piston model |
+| `032326_EngineAssemblyAVI` | Solidworks motion study. Demonstrates engine functionability |
+
 
 ---
 
@@ -63,4 +67,4 @@ This project is for personal/educational use. Feel free to fork and build upon i
 
 ## ✉️ Contact
 
-Made by [Your Name] — feel free to open an issue or reach out with questions.
+Made by [Safwan Ikbal & Arav Patel] — feel free to open an issue or reach out with questions safwan.ikbal@colostate.edu

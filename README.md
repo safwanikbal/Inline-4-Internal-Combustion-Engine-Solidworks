@@ -5,8 +5,10 @@ A fully modeled inline 4-cylinder (I4) engine designed in SolidWorks. This repos
 
 ## 📁 Repository Structure
 
-├── FullEngineAssemby.SLDASM       # Main SolidWorks assembly file
-├── FullEngineAssemby_Drawing.SLDDRW  # Engineering drawing file
+├── FullEngineAssemby.SLDASM       
+# Main SolidWorks assembly file
+├── FullEngineAssemby_Drawing.SLDDRW  
+# Engineering drawing file
 └── README.md
 
 ## 🔧 Software Requirements
@@ -21,14 +23,21 @@ A fully modeled inline 4-cylinder (I4) engine designed in SolidWorks. This repos
 This project is a fully assembled inline 4-cylinder engine model built in SolidWorks. An inline 4 (I4) is one of the most common internal combustion engine configurations, featuring four cylinders arranged in a single row.
 
 **Key engine components modeled:**
+By Arav Patel:
 - Engine block
+- Block Clamp
+- Engine Block Fly Wheel
+- Engine Block Side Plates
+By Safwan Ikbal
 - Cylinder head
-- Pistons & connecting rods
-- Crankshaft
-- Camshaft(s)
-- Valvetrain
-- Oil pan
-- Timing cover
+- Pistons
+- Connecting rod
+- Connecting Rod Clamp
+- Crankshaft (Single & Double Piston) Assembly
+- CounterWeights
+- Ring
+- Full Engine Assembly
+  
 
 ---
 

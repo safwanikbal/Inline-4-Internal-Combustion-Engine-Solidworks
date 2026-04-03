@@ -3,14 +3,6 @@ A fully modeled inline 4-cylinder (I4) engine designed in SolidWorks. This repos
 
 ---
 
-## 📁 Repository Structure
-
-├── FullEngineAssemby.SLDASM       
-# Main SolidWorks assembly file
-├── FullEngineAssemby_Drawing.SLDDRW  
-# Engineering drawing file
-└── README.md
-
 ## 🔧 Software Requirements
 
 - **SolidWorks** (2020 or later recommended)

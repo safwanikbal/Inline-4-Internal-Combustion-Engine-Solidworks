@@ -1,5 +1,5 @@
 # Inline-4-Internal-Combustion-Engine-Solidworks
-A fully modeled inline 4-cylinder (I4) engine designed in SolidWorks. This repository contains the complete 3D assembly and engineering drawing files.
+A fully modeled inline 4-cylinder (I4) engine designed in SolidWorks. This repository contains the complete 3D assembly, a complete motion study demonstrating engine functionability, and an engineering drawing for the isometric view along with all the components involved.
 
 ---
 
@@ -16,13 +16,6 @@ This project is a fully assembled inline 4-cylinder engine model built in SolidW
 
 **Key engine components modeled:**
 
-By Arav Patel:
-
-- Engine block
-- Block Clamp
-- Engine Block Fly Wheel
-- Engine Block Side Plates
-
 By Safwan Ikbal
 
 - Cylinder head
@@ -33,6 +26,15 @@ By Safwan Ikbal
 - CounterWeights
 - Ring
 - Full Engine Assembly
+
+- By Arav Patel:
+
+- Engine block
+- Block Clamp
+- Engine Block Fly Wheel
+- Engine Block Side Plates
+
+- Safwan & Arav have both contributed to revieweing and revising all parts made*
   
 
 ---

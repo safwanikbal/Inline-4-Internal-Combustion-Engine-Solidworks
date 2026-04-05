@@ -29,7 +29,7 @@ By Safwan Ikbal
 - Ring
 - Full Engine Assembly
 
-- By Arav Patel:
+By Arav Patel:
 
 - Engine block
 - Block Clamp

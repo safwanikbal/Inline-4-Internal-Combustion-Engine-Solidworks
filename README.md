@@ -71,4 +71,5 @@ This project is for personal/educational use. Feel free to fork and build upon i
 
 ## ✉️ Contact
 
-Made by [Safwan Ikbal & Arav Patel] — feel free to open an issue or reach out with questions safwan.ikbal@colostate.edu
+Made by [Safwan Ikbal & Arav Patel] — feel free to open an issue or reach out with questions safwan.ikbal@colostate.edu // arav.patel@torontomu.ca //
+a.patel3@rocketlabusa.com

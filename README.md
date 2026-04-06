@@ -2,7 +2,7 @@
 A fully modeled inline 4-cylinder (I4) engine designed in SolidWorks. This repository contains the complete 3D assembly, a complete motion study demonstrating engine functionability, and an engineering drawing for the isometric view along with all the components involved.
 
 #Motion Study
-https://www.youtube.com/watch?v=B7cxWLZyRUs
+https://www.youtube.com/watch?v=se4CElm2t10
 ---
 
 ## 🔧 Software Requirements
